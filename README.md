@@ -12,7 +12,7 @@ Code Analysis
 
 varRight -  will move up to one value so the one will become 2 and divide var by 2. Shifting to the right by one bit is the same as interger division by two.
 
-varLeftt will 2 numbers up so two will turn to four and will multiply var by 4 which will be 17. Shifting to the left by two bits is the same as interger multiplication by four. 
+varLeftt - will 2 numbers up so two will turn to four and will multiply var by 4 which will be 17. Shifting to the left by two bits is the same as interger multiplication by four. 
 
 Test Data 
 ===========
